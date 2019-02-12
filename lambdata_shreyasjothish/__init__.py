@@ -1,6 +1,3 @@
-import pandas as pd
-import numpy as np
+VERSION = 0.1
 
-VERSION = 0.0
-
-ONES = np.ones(100)
+from usefulhacks import UsefulHacks
